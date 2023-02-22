@@ -1,0 +1,12 @@
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\PipeLineDemo1.exe
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\PipeLineDemo1.dll
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\PipeLineDemo1.deps.json
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\PipeLineDemo1.runtimeconfig.json
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\PipeLineDemo1.pdb
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\internsNew\Interns-BE\Mounika\PipeLineDemo1\PipeLineDemo1\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

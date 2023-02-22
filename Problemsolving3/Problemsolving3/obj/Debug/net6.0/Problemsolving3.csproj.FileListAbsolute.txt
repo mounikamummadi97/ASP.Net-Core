@@ -1,0 +1,15 @@
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\bin\Debug\net6.0\Problemsolving3.exe
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\bin\Debug\net6.0\Problemsolving3.deps.json
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\bin\Debug\net6.0\Problemsolving3.runtimeconfig.json
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\bin\Debug\net6.0\Problemsolving3.dll
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\bin\Debug\net6.0\Problemsolving3.pdb
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.csproj.AssemblyReference.cache
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.GeneratedMSBuildEditorConfig.editorconfig
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.AssemblyInfoInputs.cache
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.AssemblyInfo.cs
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.csproj.CoreCompileInputs.cache
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.dll
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\refint\Problemsolving3.dll
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.pdb
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\Problemsolving3.genruntimeconfig.cache
+D:\internsNew\Interns-BE\Mounika\Problemsolving3\Problemsolving3\obj\Debug\net6.0\ref\Problemsolving3.dll

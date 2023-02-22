@@ -1,0 +1,15 @@
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.csproj.AssemblyReference.cache
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.GeneratedMSBuildEditorConfig.editorconfig
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.AssemblyInfoInputs.cache
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.AssemblyInfo.cs
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.csproj.CoreCompileInputs.cache
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\bin\Debug\net6.0\Problem4.exe
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\bin\Debug\net6.0\Problem4.deps.json
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\bin\Debug\net6.0\Problem4.runtimeconfig.json
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\bin\Debug\net6.0\Problem4.dll
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\bin\Debug\net6.0\Problem4.pdb
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.dll
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\refint\Problem4.dll
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.pdb
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\Problem4.genruntimeconfig.cache
+D:\internsNew\Interns-BE\Mounika\Problem4\Problem4\obj\Debug\net6.0\ref\Problem4.dll

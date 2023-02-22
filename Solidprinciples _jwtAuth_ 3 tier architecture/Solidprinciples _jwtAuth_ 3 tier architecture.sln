@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solidprinciples _jwtAuth_ 3 tier architecture", "Solidprinciples _jwtAuth_ 3 tier architecture\Solidprinciples _jwtAuth_ 3 tier architecture.csproj", "{A94ABD4F-D76B-4588-97BB-75AA5FEB0DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F702B9F6-4350-4CA4-AC95-F45B078B6BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{1C26322D-B3B0-4EDA-A43B-A25DAE3A63CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94ABD4F-D76B-4588-97BB-75AA5FEB0DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94ABD4F-D76B-4588-97BB-75AA5FEB0DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94ABD4F-D76B-4588-97BB-75AA5FEB0DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94ABD4F-D76B-4588-97BB-75AA5FEB0DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F702B9F6-4350-4CA4-AC95-F45B078B6BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F702B9F6-4350-4CA4-AC95-F45B078B6BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F702B9F6-4350-4CA4-AC95-F45B078B6BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F702B9F6-4350-4CA4-AC95-F45B078B6BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C26322D-B3B0-4EDA-A43B-A25DAE3A63CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C26322D-B3B0-4EDA-A43B-A25DAE3A63CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C26322D-B3B0-4EDA-A43B-A25DAE3A63CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C26322D-B3B0-4EDA-A43B-A25DAE3A63CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8D41BB-8E70-4D40-BDAE-CB3AB38EA7D5}
+	EndGlobalSection
+EndGlobal

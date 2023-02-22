@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DEMO_KEYVAULT.props" />
+</Project>

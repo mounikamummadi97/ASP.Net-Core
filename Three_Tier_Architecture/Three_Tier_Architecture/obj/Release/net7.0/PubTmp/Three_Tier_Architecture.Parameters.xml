@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ThreeTierArchitecture20230218122851" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\internsNew\\Interns-BE\\Mounika\\Three_Tier_Architecture\\Three_Tier_Architecture\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

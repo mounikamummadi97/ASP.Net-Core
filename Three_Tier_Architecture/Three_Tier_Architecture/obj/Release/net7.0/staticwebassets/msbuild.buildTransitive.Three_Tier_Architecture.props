@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Three_Tier_Architecture.props" />
+</Project>

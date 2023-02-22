@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LuZNQqipVgz+Ehd62y+6Bg3R/WhB7rflcpe+X7l+J2A=",
+  "Source": "DEMO_KEYVAULT",
+  "BasePath": "_content/DEMO_KEYVAULT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Many_to_Many _Relation_webAPI", "One_to_One _Relation_webAPI\Many_to_Many _Relation_webAPI.csproj", "{D99920AA-C79F-4B49-9FB7-6A3EB2CD04EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99920AA-C79F-4B49-9FB7-6A3EB2CD04EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99920AA-C79F-4B49-9FB7-6A3EB2CD04EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99920AA-C79F-4B49-9FB7-6A3EB2CD04EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99920AA-C79F-4B49-9FB7-6A3EB2CD04EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8203DA4-64FB-4D63-BB02-0496CEAF2BD2}
+	EndGlobalSection
+EndGlobal

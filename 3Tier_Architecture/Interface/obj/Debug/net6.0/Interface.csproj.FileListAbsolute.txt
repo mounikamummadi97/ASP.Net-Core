@@ -1,0 +1,15 @@
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\bin\Debug\net6.0\Interface.dll
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\bin\Debug\net6.0\Interface.pdb
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\bin\Debug\net6.0\Employee_DBLayer.dll
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\bin\Debug\net6.0\Employee_DBLayer.pdb
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.csproj.CopyComplete
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.dll
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\Interface.pdb
+D:\interns\Interns\Mounika\3Tier_Architecture\Interface\obj\Debug\net6.0\ref\Interface.dll

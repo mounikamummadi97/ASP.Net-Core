@@ -1,0 +1,14 @@
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\bin\Debug\net6.0\Employee_DBLayer.deps.json
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\bin\Debug\net6.0\Employee_DBLayer.runtimeconfig.json
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\bin\Debug\net6.0\Employee_DBLayer.dll
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\bin\Debug\net6.0\Employee_DBLayer.pdb
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.csproj.AssemblyReference.cache
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.AssemblyInfoInputs.cache
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.AssemblyInfo.cs
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.csproj.CoreCompileInputs.cache
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.dll
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\refint\Employee_DBLayer.dll
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.pdb
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\Employee_DBLayer.genruntimeconfig.cache
+D:\interns\Interns\Mounika\3Tier_Architecture\Employee_DBLayer\obj\Debug\net6.0\ref\Employee_DBLayer.dll

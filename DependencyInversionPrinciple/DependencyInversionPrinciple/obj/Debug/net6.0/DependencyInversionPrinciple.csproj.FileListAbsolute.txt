@@ -1,0 +1,15 @@
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.exe
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.deps.json
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\refint\DependencyInversionPrinciple.dll
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\vinee\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\ref\DependencyInversionPrinciple.dll

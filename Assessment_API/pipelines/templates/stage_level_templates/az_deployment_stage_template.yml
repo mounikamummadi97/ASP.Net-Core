@@ -1,0 +1,49 @@
+parameters:
+   - name: azureSubscription
+     type: string
+   - name: resourceGroup
+     type: string
+   - name: bicepFilePath
+     type: string
+   - name: parameterFilePath
+     type: string
+   - name: jobName
+     type: string
+   - name: jobDescription
+     type: string
+   - name: vmImageName
+     type: string
+   - name: scriptType
+     type: string      
+   - name: environment
+     type: string
+   - name: deploy
+     type: boolean
+     default: false         
+stages:
+- stage: Azdeployment
+  displayName: '${{ parameters.environment }}: azure resource deployment'     
+  jobs:
+   - job: ${{ parameters.jobName }}
+     displayName: ${{ parameters.jobDescription }}
+     pool:
+       vmImage: ${{ parameters.vmImageName }}
+     steps:
+           - task: AzureCLI@2
+             displayName: 'Azure bicep template resource deployment'
+             inputs:
+               azureSubscription: ${{ parameters.azureSubscription }}
+               scriptType: ${{ parameters.scriptType}}
+               scriptLocation: 'inlineScript'
+               inlineScript: |
+                 az deployment group validate --resource-group ${{ parameters.resourceGroup }} -f ${{ parameters.bicepFilePath }} --parameters ${{ parameters.parameterFilePath }} 
+
+           -  task: AzureCLI@2
+              displayName: 'Azure bicep template resource deployment'
+              condition: eq(${{parameters.deploy}}, 'true')
+              inputs:
+               azureSubscription: ${{ parameters.azureSubscription }}
+               scriptType: ${{ parameters.scriptType}}
+               scriptLocation: 'inlineScript'
+               inlineScript: |
+                 az deployment group create --resource-group ${{ parameters.resourceGroup }} -f ${{ parameters.bicepFilePath }} --parameters ${{ parameters.parameterFilePath }} 

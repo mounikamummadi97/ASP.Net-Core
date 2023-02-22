@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmWEvu0221knGkrb5jZW7Ib9uiubJLqnzTsxiiHI5H0QP47sNrfVcf3iHtGD73VikEFNqonhHNVPpMnZYjjepA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinee\\OneDrive\\Desktop\\Mounika\\Mounika\\Backend\\mounika\\Mounika_Demo_Pipeline\\Mounika_Demo_Pipeline\\Mounika_Demo_Pipeline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinee\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vinee\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vinee\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\vinee\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\vinee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\vinee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

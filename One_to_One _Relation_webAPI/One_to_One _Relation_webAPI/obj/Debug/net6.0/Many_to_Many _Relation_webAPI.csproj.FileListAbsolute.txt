@@ -1,0 +1,7 @@
+D:\interns\Interns\Mounika\One_to_One _Relation_webAPI\One_to_One _Relation_webAPI\obj\Debug\net6.0\Many_to_Many _Relation_webAPI.csproj.AssemblyReference.cache
+D:\interns\Interns\Mounika\One_to_One _Relation_webAPI\One_to_One _Relation_webAPI\obj\Debug\net6.0\Many_to_Many _Relation_webAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\interns\Interns\Mounika\One_to_One _Relation_webAPI\One_to_One _Relation_webAPI\obj\Debug\net6.0\Many_to_Many _Relation_webAPI.AssemblyInfoInputs.cache
+D:\interns\Interns\Mounika\One_to_One _Relation_webAPI\One_to_One _Relation_webAPI\obj\Debug\net6.0\Many_to_Many _Relation_webAPI.AssemblyInfo.cs
+D:\interns\Interns\Mounika\One_to_One _Relation_webAPI\One_to_One _Relation_webAPI\obj\Debug\net6.0\Many_to_Many _Relation_webAPI.csproj.CoreCompileInputs.cache
+D:\interns\Interns\Mounika\One_to_One _Relation_webAPI\One_to_One _Relation_webAPI\obj\Debug\net6.0\Many_to_Many _Relation_webAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\interns\Interns\Mounika\One_to_One _Relation_webAPI\One_to_One _Relation_webAPI\obj\Debug\net6.0\Many_to_Many _Relation_webAPI.MvcApplicationPartsAssemblyInfo.cache

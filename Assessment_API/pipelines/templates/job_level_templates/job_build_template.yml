@@ -1,0 +1,75 @@
+parameters:
+  - name: buildName
+    type: string
+  - name: projectFolder
+    type: string
+  - name: buildOutputFolder
+    type: string
+  - name: vmImageName
+    type: string
+
+jobs:
+  - job: 'build_test_${{ parameters.buildName }}'
+    displayName: 'build  and test ${{ parameters.buildName }}'
+    pool:
+      vmImage: ${{ parameters.vmImageName}} #$(vmImageName)
+    steps:
+    - task: NuGetToolInstaller@0
+      displayName: Use NuGet 6.0.0
+      inputs:
+        versionSpec: 6.0
+    - task: NuGetCommand@2
+      displayName: NuGet restore
+      inputs:
+        restoreSolution: ${{parameters.projectFolder}}
+    - task: VSBuild@1
+      displayName: Build solution
+      inputs:
+        solution: ${{parameters.projectFolder}}
+        msbuildArgs: /p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:DesktopBuildPackageLocation="$(build.artifactstagingdirectory)\WebApp.zip" /p:DeployIisAppPath="Default Web Site"
+        platform: $(BuildPlatform)
+        configuration: $(BuildConfiguration)
+        restoreNugetPackages: true
+    - task: CopyFiles@2
+      condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+      displayName: Copy deployment template files to artifacts
+      inputs:
+        SourceFolder: ${{ parameters.projectFolder }}
+        Contents: "**/*"
+        TargetFolder: $(Build.ArtifactStagingDirectory)/${{ parameters.projectFolder }}/Templates
+
+    - task: DotNetCoreCLI@2
+      condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+      displayName: Publish
+      inputs:
+        command: publish
+        publishWebProjects: false
+        projects: ${{ parameters.projectFolder }}
+        arguments: "--configuration Release --output $(build.artifactstagingdirectory)/${{ parameters.projectFolder }}"
+        zipAfterPublish: True
+
+    - task: PublishBuildArtifacts@1
+      condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+      displayName: "Publish Artifact"
+      inputs:
+        PathtoPublish: "$(build.artifactstagingdirectory)/${{ parameters.projectFolder }}"
+        ArtifactName: drop   
+#    - task: VSBuild@1
+#      displayName: 'Build solution'
+#      inputs:
+#        solution: ${{parameters.projectFolder}}
+#        msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactstagingdirectory)\\"'
+#        platform: '$(BuildPlatform)'
+#        configuration: '$(BuildConfiguration)'
+#    - task: PublishSymbols@2
+#      displayName: 'Publish symbols path'
+#      continueOnError: True
+#      inputs:
+#        SearchPattern: '**\bin\**\*.pdb'
+#        PublishSymbols: false
+#        continueOnError: true
+#    - task: PublishBuildArtifacts@1
+#      displayName: 'Publish artifacts'
+#      inputs:
+#        PathtoPublish: $(build.artifactstagingdirectory)
+#        ArtifactName: drop

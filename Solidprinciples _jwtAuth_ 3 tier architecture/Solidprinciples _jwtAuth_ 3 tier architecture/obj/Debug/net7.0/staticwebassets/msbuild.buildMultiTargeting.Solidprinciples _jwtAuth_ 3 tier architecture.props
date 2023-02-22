@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Solidprinciples _jwtAuth_ 3 tier architecture.props" />
+</Project>

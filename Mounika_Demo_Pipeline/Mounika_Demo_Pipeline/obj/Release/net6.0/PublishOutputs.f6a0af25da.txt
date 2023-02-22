@@ -1,0 +1,11 @@
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Mounika_Demo_Pipeline.exe
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Mounika_Demo_Pipeline.dll
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Mounika_Demo_Pipeline.deps.json
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Mounika_Demo_Pipeline.runtimeconfig.json
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Mounika_Demo_Pipeline.pdb
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinee\OneDrive\Desktop\Mounika\Mounika\Backend\mounika\Mounika_Demo_Pipeline\Mounika_Demo_Pipeline\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

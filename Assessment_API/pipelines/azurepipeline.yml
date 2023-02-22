@@ -1,0 +1,51 @@
+trigger:
+    batch: true
+    branches:
+        include:
+        - main
+        - develop
+    paths:
+        include: 
+        - "./Mounika/Assessment_API/*"
+
+pool:
+  name: 'Azure Pipelines'
+
+
+variables:
+  isMain: $[eq(variables['Build.SourceBranch'], 'refs/heads/main')] #not used
+  isDev: $[eq(variables['Build.SourceBranch'], 'refs/heads/develop')] #not used
+  test: ""
+
+stages:
+- template: templates/stage_level_templates/test_build_stage_template.yml # stage template to test, build and push
+  parameters:
+    projectFolder: Mounika/Assessment_API/Assessment_API.sln #${{variables.projectFolder}}
+    buildOutputFolder: $(BUILDOUTPUTFOLDER) #${{variables.buildOutputFolder}}
+    sourceFolder: $(SOURCEFOLDER) #${{variables.sourceFolder}}
+    vmImageName: $(VMIMAGE)
+    
+
+- template: templates/stage_level_templates/az_deployment_stage_template.yml # stage template for azure resource deployment to Develop
+  parameters:
+    vmImageName : $(VMIMAGE) #${{variables.vmImage}}
+    azureSubscription : "MounikaOfficial"
+    resourceGroup : "Mounika"
+    bicepFilePath : "Mounika/Assessment_API/infrastructure/main.bicep"
+    parameterFilePath : "Mounika/Assessment_API/infrastructure/main.parameters.dev.json"
+    jobName : "resourcedeployment"
+    jobDescription : "deployemnt of resources"
+    scriptType : "bash"
+    environment: 'dev'
+    deploy: true
+
+- template: templates/stage_level_templates/app_deployment_stage_template.yml #stage template for application deployment
+  parameters:
+    serviceConnection: 'MounikaOfficial'
+    subscriptionId: '04f97656-0abc-4052-bd6e-eab5cd53b9f0'
+    environment: 'dev'
+    appType: $(APPTYPE)
+
+#- template: templates/stage_level_templates/regression_test_stage_template.yml # stage template for regression testing
+#  parameters:
+#    environment: 'dev'

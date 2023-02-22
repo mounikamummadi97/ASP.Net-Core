@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PipeLineDemo1.props" />
+</Project>

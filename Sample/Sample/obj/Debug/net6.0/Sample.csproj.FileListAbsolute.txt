@@ -1,0 +1,15 @@
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.csproj.AssemblyReference.cache
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.AssemblyInfoInputs.cache
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.AssemblyInfo.cs
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.csproj.CoreCompileInputs.cache
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\bin\Debug\net6.0\Sample.exe
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\bin\Debug\net6.0\Sample.deps.json
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\bin\Debug\net6.0\Sample.runtimeconfig.json
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\bin\Debug\net6.0\Sample.dll
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\bin\Debug\net6.0\Sample.pdb
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.dll
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\refint\Sample.dll
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.pdb
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\Sample.genruntimeconfig.cache
+D:\internsNew\Interns-BE\Mounika\Sample\Sample\obj\Debug\net6.0\ref\Sample.dll

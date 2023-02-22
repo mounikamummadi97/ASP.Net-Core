@@ -1,0 +1,15 @@
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\bin\Debug\net6.0\Unit_testing_Sample.exe
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\bin\Debug\net6.0\Unit_testing_Sample.deps.json
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\bin\Debug\net6.0\Unit_testing_Sample.runtimeconfig.json
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\bin\Debug\net6.0\Unit_testing_Sample.dll
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\bin\Debug\net6.0\Unit_testing_Sample.pdb
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.csproj.AssemblyReference.cache
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.AssemblyInfoInputs.cache
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.AssemblyInfo.cs
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.csproj.CoreCompileInputs.cache
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.dll
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\refint\Unit_testing_Sample.dll
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.pdb
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\Unit_testing_Sample.genruntimeconfig.cache
+D:\internsNew\Interns-BE\Mounika\Unit_testing_Sample\Unit_testing_Sample\obj\Debug\net6.0\ref\Unit_testing_Sample.dll

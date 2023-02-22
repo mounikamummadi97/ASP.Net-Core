@@ -1,0 +1,17 @@
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\bin\Debug\net7.0\BAL.deps.json
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\bin\Debug\net7.0\BAL.runtimeconfig.json
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\bin\Debug\net7.0\BAL.dll
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\bin\Debug\net7.0\BAL.pdb
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\bin\Debug\net7.0\DAL.dll
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\bin\Debug\net7.0\DAL.pdb
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.csproj.AssemblyReference.cache
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.csproj.CopyComplete
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.dll
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\refint\BAL.dll
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.pdb
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\BAL.genruntimeconfig.cache
+D:\internsNew\Interns-BE\Mounika\Three_Tier_Architecture\BAL\obj\Debug\net7.0\ref\BAL.dll

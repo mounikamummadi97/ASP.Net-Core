@@ -1,0 +1,15 @@
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\bin\Debug\net6.0\Sample2.exe
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\bin\Debug\net6.0\Sample2.deps.json
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\bin\Debug\net6.0\Sample2.runtimeconfig.json
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\bin\Debug\net6.0\Sample2.dll
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\bin\Debug\net6.0\Sample2.pdb
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.csproj.AssemblyReference.cache
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.AssemblyInfoInputs.cache
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.AssemblyInfo.cs
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.csproj.CoreCompileInputs.cache
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.dll
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\refint\Sample2.dll
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.pdb
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\Sample2.genruntimeconfig.cache
+D:\internsNew\Interns-BE\Mounika\Sample2\Sample2\obj\Debug\net6.0\ref\Sample2.dll

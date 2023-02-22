@@ -1,0 +1,21 @@
+parameters:
+  - name: projectFolder
+    type: string
+  - name: buildOutputFolder
+    type: string
+  - name: sourceFolder
+    type: string    
+  - name: vmImageName
+    type: string    
+
+stages:
+- stage: BuildAndTest
+  displayName: 'build and test'
+  jobs:
+  - template: ../job_level_templates/job_build_template.yml # Build
+    parameters:
+      buildName: 'demo_pipeline'
+      projectFolder: ${{parameters.projectFolder}}
+      buildOutputFolder: ${{parameters.buildOutputFolder}}
+      vmImageName: ${{parameters.vmImageName}}
+

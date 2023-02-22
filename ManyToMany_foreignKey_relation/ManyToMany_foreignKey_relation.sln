@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToMany_foreignKey_relation", "ManyToMany_foreignKey_relation\ManyToMany_foreignKey_relation.csproj", "{73F08186-262F-4E5E-8332-7D58EC0456DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F08186-262F-4E5E-8332-7D58EC0456DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F08186-262F-4E5E-8332-7D58EC0456DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F08186-262F-4E5E-8332-7D58EC0456DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F08186-262F-4E5E-8332-7D58EC0456DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B31DEA6-E3A9-468D-BFAB-628D4CD417EF}
+	EndGlobalSection
+EndGlobal
